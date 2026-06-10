@@ -1,4 +1,5 @@
-# DevOps Project 007 — Deployment of Super Mario on Kubernetes using Terraform
+# DevOps Project 007 
+# Deployment of Super Mario on Kubernetes using Terraform
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazonaws)
